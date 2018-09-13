@@ -1,0 +1,36 @@
+body {
+
+   background-color: #FFB6C1;
+   font-family: "Raleway", sans-serif;
+}
+
+.entry {
+
+   width: 600px;
+   display: inline;
+}
+
+#assignment {
+
+   margin: 50px 300px;
+}
+
+ul {
+
+   text-decoration: none;
+   font-size: 20px;
+
+}
+
+.blogs {
+
+   float: left;
+   margin: 0px;
+   list-style-type: none; //removes bullets from ul
+
+}
+
+li.blog-num {
+   
+}
+
